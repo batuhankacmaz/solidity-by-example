@@ -1,0 +1,6 @@
+You should research deeply abi.encodePacked or familiar
+You should research assembly inline
+You should research delegate calls or calls
+You should research keccak256, soloditySHA3
+You should research ecrecover , mload etc.
+Look special functions selfdestruct etc.
